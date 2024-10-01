@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Website</title>
+    <link rel="stylesheet" href="p.css">
+</head>
+<body>
+
+   
+    <div class="image1">
+        <div class="text">
+            <p class="textbg">PARALLAX WEBSITE</p>
+        </div>
+    </div>
+    
+    <div class="section sectionA">
+        <h2>Section One</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam earum iste neque ea officia ratione cupiditate odio consequuntur, eum assumenda laboriosam minima perferendis voluptatum libero. Animi officia fuga esse necessitatibus aut maxime eos labore doloremque ad quaerat quod rerum molestiae fugiat, voluptate minus officiis a tempore ipsa laboriosam assumenda quas, sint magni velit. Obcaecati repellendus fugiat voluptate cupiditate eaque. Doloribus maiores, molestiae iste corporis, quam cumque autem delectus quis unde nihil ad natus? Deleniti magnam nulla ducimus et quod. Ullam, maiores neque. Nihil fugiat nam itaque quo eius nobis facere neque, recusandae eveniet natus optio sequi sed ipsum dolor voluptate!</p>
+
+
+    </div>
+
+    <div class="image2">
+        <div class="text">
+            <p class="textbg">EXPLORE MORE</p>
+        </div>
+    </div>
+
+    <div class="section sectionB">
+        <h2>Section Two</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam earum iste neque ea officia ratione cupiditate odio consequuntur, eum assumenda laboriosam minima perferendis voluptatum libero. Animi officia fuga esse necessitatibus aut maxime eos labore doloremque ad quaerat quod rerum molestiae fugiat, voluptate minus officiis a tempore ipsa laboriosam assumenda quas, sint magni velit. Obcaecati repellendus fugiat voluptate cupiditate eaque. Doloribus maiores, molestiae iste corporis, quam cumque autem delectus quis unde nihil ad natus? Deleniti magnam nulla ducimus et quod. Ullam, maiores neque. Nihil fugiat nam itaque quo eius nobis facere neque, recusandae eveniet natus optio sequi sed ipsum dolor voluptate!</p>
+
+
+    </div>
+
+
+    <div class="image3">
+        <div class="text">
+            <p class="textbg">THINK,CREATE & REPEAT</p>
+        </div>
+    </div>
+
+    <div class="section sectionC">
+        <h2>Section Three</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam earum iste neque ea officia ratione cupiditate odio consequuntur, eum assumenda laboriosam minima perferendis voluptatum libero. Animi officia fuga esse necessitatibus aut maxime eos labore doloremque ad quaerat quod rerum molestiae fugiat, voluptate minus officiis a tempore ipsa laboriosam assumenda quas, sint magni velit. Obcaecati repellendus fugiat voluptate cupiditate eaque. Doloribus maiores, molestiae iste corporis, quam cumque autem delectus quis unde nihil ad natus? Deleniti magnam nulla ducimus et quod. Ullam, maiores neque. Nihil fugiat nam itaque quo eius nobis facere neque, recusandae eveniet natus optio sequi sed ipsum dolor voluptate!</p>
+
+
+    </div>
+
+    <div class="image1">
+        <div class="text">
+            <p class="textbg">CSDABLU</p>
+        </div>
+    </div>
+    
+
+</body>
+</html>
