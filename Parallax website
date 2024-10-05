@@ -4,7 +4,118 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parallax Website</title>
-    <link rel="stylesheet" href="p.css">
+   <style>
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.image1{
+  background-image: url(image1.jpg);
+  height: 100%;
+ 
+}
+.image2{
+    background-image: url(image2.jpg);
+    height: 400px;
+  }
+.image3{
+    background-image: url(image3.jpg);
+    height: 400px;
+  }
+.image2,.image3,.image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.text{
+    font-size: 27px;
+    letter-spacing: 7px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.textbg{
+    color: white;
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+    padding: 20px;
+}
+
+
+.section{
+    text-align: center;
+    padding: 80px 80px;
+}
+h2{
+    margin-bottom:1rem;
+}
+.sectionA{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.sectionB{
+    background-color:#282e34;
+    color: #ddd;
+}
+.sectionC{
+    background-color:#282e34;
+    color: #ddd;
+}
+
+
+@media only screen and (max-width: 600px){
+    .text{
+        font-size: 14px;
+        letter-spacing: 7px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .section{
+        text-align: center;
+        padding: 40px 40px;
+    }
+
+    .section p{
+       font-size:12px;
+    }
+
+    /* .section h2{
+        font-size:10px;
+     } */
+
+    
+  /* .image1{
+    background-image: url(image1.jpg);
+    height: 100%;
+   
+  }
+  .image2{
+      background-image: url(image2.jpg);
+      height: 400px;
+    }
+  .image3{
+      background-image: url(image3.jpg);
+      height: 400px;
+    } */
+}
+
+   </style>
+
 </head>
 <body>
 
